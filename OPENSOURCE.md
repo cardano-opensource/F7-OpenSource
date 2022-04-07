@@ -1,8 +1,6 @@
 ## What is Open Source
 
-We don't have a formal definition on how an Open Source Project should qualify as such.
-
-Anyway, as mentioned by swhitenstall , the community tend to agree on the unambiguous Open Source Definition as presented here: https://opensource.org/osd
+We tend to agree on the unambiguous Open Source Definition as presented here: https://opensource.org/osd
 
 A pragmatic help in the direction of creating an Open Source project would be considering the below concise operational definition (drawn from a concise procedural definition provided by GitBook, and compatible with the opensource definition, although a bit stricter)
 
