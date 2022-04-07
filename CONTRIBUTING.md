@@ -6,7 +6,7 @@ Welcome to all the Open Source projects approved in Catalyst Fund 7.
 To all the projects, we ask to
 
 - Join our meetings to meet the Challenge Team. Once a month, we're having two meetings. We suggest you to join at least one of the two. 
-- provide a markdown description of your project under the folder [a link](funded/). For the description you can use [funded/_example-project-readme.md] as an example. Such document will be your visit card to present the project to the cardano community who voted for you. 
+- provide a markdown description of your project under the folder [F7-OpenSource/funded/](funded/). For the description you can use [funded/_example-project-readme.md](_example-project-readme.md) as an example. Such document will be your visit card to present the project to the cardano community who voted for you. 
 
 
 ## F7 OSDE Challenge Team Members
