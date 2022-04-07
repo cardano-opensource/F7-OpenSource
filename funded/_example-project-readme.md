@@ -1,4 +1,4 @@
-# Example Project
+# Example Project Readme
 
 **website**: http://my-example-project.com
 
