@@ -5,16 +5,18 @@ This repository is for tracking and documenting all the open source projects fun
 
 Here you can find a short presentation about the [Open Source Developer Ecosystem, 200K](https://docs.google.com/presentation/d/1p_StC1TrtspI_BSXt16OFnaSFh6gN8A8Ev80U4jU0jc/edit#slide=id.gfbbbab59d4_0_107). Note that we presented the first five slides only, while the remaining were for further details.
 
-## Challenge Team
+## Projects
 
-The Challenge Team members are Juliana, SoFi, Patrik, Raghuram, Seomon. 
-The Role of the CT Members is to Foster the Challenge, and collect valuable information that shall be shared back with Catalyst. 
+Below, you can find information about the projects funded by Cardano Catalyst in Fund 7, under the Open Source Development Ecosystem challenge.
 
-Below is an estimation of the time spent by the CT
-- 3h Propose (1/6) --> Juliane, Sosha
-- 3h Present (1/6) --> Sosha, Patrik, Raghuram
-- 3h Onboard (1/6) --> Sosha, Raghuram, Seomon, Patrik
-- 15h ROI Document (1/2) --> Sosha, Raghuram, Seomon, Patrik
+- [funded/chain-lib.md](@chain-lib) (@wvalthar): [Documentation Website](https://cardano.ideascale.com/c/idea/380957), [Cardano API Plugins](https://cardano.ideascale.com/c/idea/380949)
+- (@hotspringfinder): [Flutter SDK](https://cardano.ideascale.com/c/idea/381288)
+- (@eli.j.selkin/@reshm): [PAB Container Log Processor](https://cardano.ideascale.com/c/idea/384450), [NFT Based Authentication](https://cardano.ideascale.com/c/idea/384854)	
+
+## Main documentation
+
+* [OPENSOURCE.md](OPENSOURCE.md) a definition of Open Source
+* [CONTRIBUTING.md](CONTRIBUTING.md) how to contribute and what to expect from CT Members.
 
 ## Data 
 
