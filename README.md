@@ -9,7 +9,7 @@ Here you can find a short presentation about the [Open Source Developer Ecosyste
 
 Below, you can find information about the projects funded by Cardano Catalyst in Fund 7, under the Open Source Development Ecosystem challenge.
 
-- [funded/chain-lib.md](@chain-lib) (@wvalthar): [Documentation Website](https://cardano.ideascale.com/c/idea/380957), [Cardano API Plugins](https://cardano.ideascale.com/c/idea/380949)
+- [@chain-lib](funded/chain-lib.md) (@wvalthar): [Documentation Website](https://cardano.ideascale.com/c/idea/380957), [Cardano API Plugins](https://cardano.ideascale.com/c/idea/380949)
 - (@hotspringfinder): [Flutter SDK](https://cardano.ideascale.com/c/idea/381288)
 - (@eli.j.selkin/@reshm): [PAB Container Log Processor](https://cardano.ideascale.com/c/idea/384450), [NFT Based Authentication](https://cardano.ideascale.com/c/idea/384854)	
 
